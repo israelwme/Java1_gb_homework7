@@ -24,4 +24,5 @@ public class Plate {
     public void addFood(int food) {
         this.food += food;
     }
+
 }

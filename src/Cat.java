@@ -17,4 +17,5 @@ public class Cat {
     public void info() {
         System.out.println(name + " " + (satiety ? " сыт " : " голоден ") + " (В тарелке осталось " + infoPlate + " единиц)");
     }
+
 }
